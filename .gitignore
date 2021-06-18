@@ -144,4 +144,9 @@ tags
 [._]*.un~
 
 .DS_Store
-virtualenv*
+virtualenv
+
+html/_sources
+doctrees
+_output
+docs/.buildinfo
